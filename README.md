@@ -10,6 +10,8 @@ Make sure to join My Discord Community you can by clicking the embed below.
   
 </div>
 
+---
+
 Thanks for downloading the resource, we offer two versions of this resource, one to list it in ESX, VRP, and other simmilar frameworks, and also we have released a standalone version, for servers that do not support frameworks.
 
 If you like the resources that MayhemStudios put out, consider joining the discord or staring some of the repoisitories, I love interacting with the community and chatting around with people.
